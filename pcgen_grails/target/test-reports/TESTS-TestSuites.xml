@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites>
+  <testsuite errors="0" failures="0" hostname="leeloo.config" id="0" name="PlayerCharacterTests" package="com.java7developer.chapter13" tests="2" time="0.306" timestamp="2012-01-17T15:43:12">
+      <properties />
+
+      <testcase classname="com.java7developer.chapter13.PlayerCharacterTests" name="testConstructorSucceedsWithValidAttributes" time="0.277" />
+
+      <testcase classname="com.java7developer.chapter13.PlayerCharacterTests" name="testConstructorFailsWithSomeBadAttributes" time="0.017" />
+
+      <system-out><![CDATA[--Output from testConstructorSucceedsWithValidAttributes--
+--Output from testConstructorFailsWithSomeBadAttributes--
+]]></system-out>
+
+      <system-err><![CDATA[--Output from testConstructorSucceedsWithValidAttributes--
+--Output from testConstructorFailsWithSomeBadAttributes--
+]]></system-err>
+
+  </testsuite>
+</testsuites>

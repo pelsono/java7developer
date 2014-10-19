@@ -1,0 +1,13 @@
+Testsuite: com.java7developer.chapter13.PlayerCharacterTests
+Tests run: 2, Failures: 0, Errors: 0, Time elapsed: 0.306 sec
+------------- Standard Output ---------------
+--Output from testConstructorSucceedsWithValidAttributes--
+--Output from testConstructorFailsWithSomeBadAttributes--
+------------- ---------------- ---------------
+------------- Standard Error -----------------
+--Output from testConstructorSucceedsWithValidAttributes--
+--Output from testConstructorFailsWithSomeBadAttributes--
+------------- ---------------- ---------------
+
+Testcase: testConstructorSucceedsWithValidAttributes took 0.277 sec
+Testcase: testConstructorFailsWithSomeBadAttributes took 0.017 sec
